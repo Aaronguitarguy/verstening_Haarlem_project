@@ -1,5 +1,8 @@
 # Verstening van Haarlem – Data-analyseproject
 
+## 📄 Rapportage
+Voor een volledige toelichting op aanpak, methodologie en normkeuze, zie [`docs/rapportage.md`](docs/rapportage.md).
+
 ## Korte beschrijving
 Dit project analyseert de mate van verstening in de gemeente Haarlem op basis van de norm "Groene stadslandschappen" uit het Sweco-rapport van 2024. Deze norm adviseert minimaal 75 m² groen per woning in stedelijk gebied. Aan de hand van luchtfoto’s, beeldclassificatie en geografische data wordt onderzocht hoe Haarlem hierop scoort, en welke wijken eventueel in aanmerking komen voor vergroening.
 
