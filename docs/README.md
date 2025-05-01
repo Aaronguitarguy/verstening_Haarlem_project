@@ -1,6 +1,6 @@
 # Verstening van Haarlem – Data-analyseproject
 
-## 📄 Rapportage
+## Rapportage
 Voor een volledige toelichting op aanpak, methodologie en normkeuze, zie [`rapportage.md`](rapportage.md).
 
 ## Korte beschrijving
