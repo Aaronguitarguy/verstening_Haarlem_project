@@ -32,3 +32,9 @@ Om deze hoofdvraag te kunnen beantwoorden, zijn de volgende deelvragen opgesteld
 3. Hoeveel procent van Haarlem is verhard, hoeveel groen, en hoeveel water of overig?
 4. Welke wijken scoren het slechtst en welke het best?
 5. Wat zijn mogelijke verklaringen voor verschillen in verstening per wijk?
+
+## 3. Methode
+
+## 4. Resultaten
+
+## 5. Conclusie
