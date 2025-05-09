@@ -28,10 +28,12 @@ Het doel is om beleidsrelevante inzichten te geven in de verdeling van groen en 
 ```bash
 Verstening_Haarlem_Project/
 ├── data/              # Invoerdata: luchtfoto's, shapefiles
+│   ├── private/       # Bestanden die niet naar Github moeten worden geupload
 │   ├── raw/           # Originele bronnen
 │   ├── processed/     # Bewerkt (bijgesneden, opgeschoond)
 │   └── shapefiles/    # Gemeente- en wijkgrenzen
 ├── notebooks/         # Jupyter notebooks voor elke stap
+├── qgis/              # Alle QGIS projectbestanden voor ruimtelijke analyse
 ├── src/               # Python scripts (preprocessing, classificatie, analyse)
 ├── output/            # Visualisaties, kaarten, resultaten
 ├── reports/           # Rapportage, o.a. rapportage.md
@@ -49,8 +51,11 @@ Verstening_Haarlem_Project/
 pip install -r requirements.txt
 ```
 
+Let op: het luchtfoto-bestand (GeoTIFF, ±5,5 GB) is niet opgenomen in deze repository. Plaats dit handmatig in data/private/ om het project volledig te laten draaien.
+
 ## Status
 Dit project bevindt zich in de analysefase. Eerste beeldverwerking en classificatie zijn in ontwikkeling.
 
 ## Auteur
 Mijn naam is Aaron Janssens, afgestudeerd watermanager met interesse in data science en klimaatadaptatie. Dit project is onderdeel van een leerroute naar datagedreven werken in het ruimtelijk domein.
+
